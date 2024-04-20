@@ -63,5 +63,3 @@ This project is licensed under the MIT License - see the LICENSE.md file for det
 - Gratitude to the open-source community for their continuous support and collaboration.
 
 ---
-
-Feel free to adjust the content according to your project's specifics and preferences. Let me know if you need further assistance!
